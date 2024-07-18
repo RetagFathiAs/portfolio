@@ -1,0 +1,15 @@
+/* Add this to your existing CSS */
+@keyframes upAndDown {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-50px); /* Adjust the distance as needed */
+    }
+  }
+  
+  /* Apply the animation to your 3D model */
+  .up-and-down-animation {
+    animation: upAndDown 2s infinite alternate; /* Adjust duration and other properties */
+  }
+  
