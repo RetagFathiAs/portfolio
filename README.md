@@ -34,7 +34,7 @@ But I craved more—a touch of magic that would elevate my project beyond the or
 
 Studying at ALX-SE revealed a profound truth: Some things defy imagination in the physical realm, yet we can conjure them within the confines of our laptops and through our programming prowess. The harder the challenge, the higher we ascend—the vastness of space awaiting our exploration.
 
-## landing :
+## Landing :
 <img src="img/landing.png" align="center">
 
 ## About me section :
