@@ -49,7 +49,6 @@ Studying at ALX-SE revealed a profound truth: Some things defy imagination in th
 
 ## Projects section :
 <img src="img/projects.png" align="right">
-<img src="img/last.png" align="center">
 
 ## Contact section :
 <img src="img/contact.png" align="center">
