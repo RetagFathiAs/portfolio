@@ -1,4 +1,7 @@
-<video src="img/Retaj Fathi Portfolio.mp4" align="center" />
+<video src="img/Retaj.mp4" controls autoplay loop>
+  Your browser does not support the video tag.
+</video>
+
 
 Uploading Untitled ‑ Made with FlexClip (25).mp4…
 
