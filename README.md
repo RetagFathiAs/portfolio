@@ -1,5 +1,4 @@
-<video src="img/Retaj.mp4" controls autoplay loop>
-  Your browser does not support the video tag.
+<video src="Retaj.mp4" controls autoplay loop>
 </video>
 
 
