@@ -1,92 +1,76 @@
-<video src="Retaj.mp4" autoplay loop>
-</video>
 
+https://github.com/user-attachments/assets/556dbcc1-8809-4bdb-850b-a9dcdb6dee06
 
-Uploading Untitled ‑ Made with FlexClip (25).mp4…
-
-
-# WebApp
+# Portfolio Project
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+  A portfolio project is a website that describes my passion , experience , and character . as a front-end student in alx i facused in designing tools and used html , css , js, react.js , and to challenge my self i add 3d models which i used three.js to control.
 </td>
 </tr>
 </table>
 
 
 ## Demo
-Here is a working live demo : [![](https://youtu.be/v_vvvfJoXh4)](https://youtu.be/v_vvvfJoXh4?si=QZNTgD8res1Wzxa8)
+Here is a working live demo : [![](https://youtu.be/v_vvvfJoXh4?si=QZNTgD8res1Wzxa8)](https://youtu.be/v_vvvfJoXh4)
 
-
-## Site
 
 ### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
-
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
-
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
-
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+<img src="img/landing.png" align="center">
 
 
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
+### “Exploring the Cosmos: My Portfolio Project”
 
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+A portfolio project serves as a window into my world—a canvas where I express my passion, showcase my experience, and reveal my character. As a front-end student at ALX, I immersed myself in the art of design, wielding HTML, CSS, and JavaScript. React.js became my trusted companion, empowering me to craft dynamic and responsive interfaces.
+
+But I craved more—a touch of magic that would elevate my project beyond the ordinary. So, I delved into the third dimension. Enter Three.js—an enchanting library that allowed me to breathe life into 3D models. The theme? The boundless blue expanse of space. Picture it: a butterfly, delicate yet determined, fluttering at the project’s inception. It challenged the very atmosphere, defying gravity, and soared upward.
+
+Studying at ALX-SE revealed a profound truth: Some things defy imagination in the physical realm, yet we can conjure them within the confines of our laptops and through our programming prowess. The harder the challenge, the higher we ascend—the vastness of space awaiting our exploration.
+
+## Site
+# landing :
+<img src="img/landing.png" align="center">
+
+# About me section :
+<img src="img/about.png" align="center">
+
+# Experience section:
+<img src="img/begain.png" align="center">
+<img src="img/med.png" align="center">
+<img src="img/exp3.png" align="center">
+<img src="img/exp4.png" align="center">
+
+# Technologies section:
+<img src="img/technologies.png" align="center">
+
+# Projects section :
+<img src="img/projects.png" align="right">
+<img src="img/last.png" align="center">
+
+# Contact section :
+<img src="img/contact.png" align="center">
 
 
 
 
-## [Usage](https://iharsh234.github.io/WebApp/) 
-
-### Development
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
 
 
 ## Built with 
 
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+<img src="img/html.png" width="100"> <img src="img/css.png" width="100"> <img src="img/javascript.png" width="100"> <img src="img/reactjs.png" width="100"> <img src="img/threejs.svg" width="100">
+
+
 
 
 ## To-do
-- Add BSE (India) Symbol to the current App.
-- Decide comparison models of Stocks. (suggestions are most welcome).
-- Another WebApp, capable of comparing at least 10 stocks.
+- Add a page for every single project .
+- create 3d models to emulate my projects.
+
 
 ## Team
 
-[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
----|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
+- it's just me ^-^ , worked solo in this project .
 
-
-# joe
-
-A `.gitignore` magician in your command line. Joe generates `.gitignore` files from the command line for you.
 
 
 
