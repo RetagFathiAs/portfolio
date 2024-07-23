@@ -42,9 +42,6 @@ Studying at ALX-SE revealed a profound truth: Some things defy imagination in th
 
 ## Experience section:
 <img src="img/all.jpeg" align="center">
-<img src="img/begain.png" align="center">
-<img src="img/med.png" align="center">
-<img src="img/exp3.png" align="center">
 <img src="img/exp4.png" align="center">
 
 ## Technologies section:
