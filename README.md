@@ -34,27 +34,27 @@ But I craved more—a touch of magic that would elevate my project beyond the or
 
 Studying at ALX-SE revealed a profound truth: Some things defy imagination in the physical realm, yet we can conjure them within the confines of our laptops and through our programming prowess. The harder the challenge, the higher we ascend—the vastness of space awaiting our exploration.
 
-## Site
-# landing :
+## landing :
 <img src="img/landing.png" align="center">
 
-# About me section :
+## About me section :
 <img src="img/about.png" align="center">
 
-# Experience section:
+## Experience section:
+<img src="img/all.jpeg" align="center">
 <img src="img/begain.png" align="center">
 <img src="img/med.png" align="center">
 <img src="img/exp3.png" align="center">
 <img src="img/exp4.png" align="center">
 
-# Technologies section:
+## Technologies section:
 <img src="img/technologies.png" align="center">
 
-# Projects section :
+## Projects section :
 <img src="img/projects.png" align="right">
 <img src="img/last.png" align="center">
 
-# Contact section :
+## Contact section :
 <img src="img/contact.png" align="center">
 
 
