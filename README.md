@@ -10,7 +10,7 @@
 
 
 ## Demo
-Here is a working live demo : https://youtu.be/v_vvvfJoXh4
+Here is a working live demo : ![](https://youtu.be/v_vvvfJoXh4)
 
 
 ## Site
@@ -77,7 +77,11 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ---|---
 [Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
+# joe
+
+A `.gitignore` magician in your command line. Joe generates `.gitignore` files from the command line for you.
+
+
+
 
