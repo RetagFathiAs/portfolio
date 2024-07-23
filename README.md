@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/556dbcc1-8809-4bdb-850b-a9dcdb6dee06
 
 
 ## Demo
-Here is a working live demo : [![](https://youtu.be/v_vvvfJoXh4?si=QZNTgD8res1Wzxa8)](https://youtu.be/v_vvvfJoXh4)
+Here is a working live demo :  https://youtu.be/v_vvvfJoXh4
 
 
 ### Landing Page
