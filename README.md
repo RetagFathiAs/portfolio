@@ -1,4 +1,4 @@
-<video src="Retaj.mp4" controls autoplay loop>
+<video src="Retaj.mp4" autoplay loop>
 </video>
 
 
